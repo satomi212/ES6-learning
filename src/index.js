@@ -63,7 +63,7 @@
  * map,filter
  */
 // map
-const nameArr = ["田中", "山田", "佐藤"];
+// const nameArr = ["田中", "山田", "佐藤"];
 // const array = nameArr.map((name) => {
 //   return name;
 // })
